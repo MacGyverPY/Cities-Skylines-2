@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Publish>
+  <ModId Value="162902" />
+  <DisplayName Value="GODs Disaster Control" />
+  <ShortDescription Value="Target disasters and devastating strikes anywhere in your city." />
+  <LongDescription>GODs Disaster Control adds a compact in-game launcher with precision map targeting.
+
+FEATURES
+â€¢ Lightning Strike â€” repeatable precision strikes against terrain, buildings, vehicles, and citizens
+â€¢ Earthquake â€” wide-area structural damage and destruction
+â€¢ Hailstorm â€” native citywide weather with controlled damage pulses
+â€¢ Wildfire â€” native fire ignition and spread
+â€¢ Meteor Strike â€” descending meteor with impact destruction and fires
+â€¢ Missile Strike â€” compact precision strike with local destruction
+â€¢ Nuclear Strike â€” ICBM, blast dome, mass destruction, fires, pollution, impact artwork, and an optional permanent terrain crater
+
+CONTROLS
+â€¢ Ctrl+G opens or closes the disaster panel
+â€¢ Left-click deploys a selected targeted disaster repeatedly
+â€¢ Right-click, Escape, or Cancel exits targeting
+â€¢ Choose Auto, Cross, or Rings reticles
+â€¢ Toggle nuclear terrain deformation ON or OFF
+
+WARNING
+These events are destructive. Back up important cities before use. Terrain craters are permanent unless the save is reloaded.</LongDescription>
+  <Thumbnail Value="C:\Cs2 Projects\GODs-Disaster-Control\Properties\Thumbnail.png" />
+  <ModVersion Value="0.14.13" />
+  <GameVersion Value="1.*" />
+  <AccessLevel Value="Public" />
+  <ChangeLog>Corrected release packaging to include the Disaster Control interface, menu launcher, styles, and icon alongside the backend. Includes the Ctrl+G compatibility improvements from 0.14.12.</ChangeLog>
+</Publish>
